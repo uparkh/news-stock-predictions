@@ -64,7 +64,7 @@ def get_subreddit_data(subreddit: str):
                     mo,
                     post['id'],
                     post['title'],
-                    post['selftext'].replace('\n', ''),
+                    post['selftext'].replace('\n', ' ').replace('\r', ' ').strip(),
                 ] + t10c_bodies)
 
                 csvfile.flush()

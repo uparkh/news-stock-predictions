@@ -74,11 +74,16 @@ dependencies:
   - pip:
       - certifi==2025.1.31
       - charset-normalizer==3.4.1
+      - click==8.1.8
       - idna==3.10
+      - joblib==1.4.2
+      - nltk==3.9.1
       - praw==7.8.1
       - prawcore==2.4.0
       - python-dotenv==1.0.1
+      - regex==2024.11.6
       - requests==2.32.3
+      - tqdm==4.67.1
       - update-checker==0.18.0
       - urllib3==2.3.0
       - websocket-client==1.8.0

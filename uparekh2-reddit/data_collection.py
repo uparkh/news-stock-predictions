@@ -47,7 +47,7 @@ def get_subreddit_data(subreddit: str):
 
             for i, post in enumerate(posts):
                 if i % 25 == 0:
-                    print(f'[{subreddit}] Processing post {i+1}/{len(posts)}...')
+                    print(f'[{subreddit}] Processing {mo} post {i+1}/{len(posts)}...')
 
                 while 1:
                     response = requests.get(

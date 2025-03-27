@@ -1,0 +1,15 @@
+{
+    "query": "economy",
+    "start_date": "2024-01-01",
+    "end_date": "2024-12-31",
+    "links": [
+        "https://finance.yahoo.com/news/us-economy-poised-for-solid-growth-in-2025-because-america-doesnt-import-recessions-bofa-110011744.html",
+        "https://finance.yahoo.com/news/kamala-harris-opportunity-economy-actually-143309121.html",
+        "https://finance.yahoo.com/news/the-us-economy-may-be-on-thinner-ice-than-investors-think-194507778.html",
+        "https://finance.yahoo.com/news/wall-street-is-having-trouble-getting-too-excited-about-the-us-economy-083530383.html",
+        "https://finance.yahoo.com/news/a-surprisingly-resilient-us-economy-is-once-again-leading-stocks-higher-morning-brief-100002751.html",
+        "https://uk.finance.yahoo.com/news/uk-gdp-october-072121464.html",
+        "https://sg.finance.yahoo.com/news/just-happened-economy-stupid-125052037.html",
+        "https://ca.finance.yahoo.com/news/analysis-thai-economy-faces-upheaval-230848112.html"
+    ]
+}

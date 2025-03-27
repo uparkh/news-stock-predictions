@@ -1,2 +1,2 @@
 # Getting Started
-Lorem ipsum dolor ...
+pip installed tweepy

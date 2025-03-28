@@ -1,0 +1,452 @@
+2025-03-28 10:42:56,780 - INFO - Searching Google for: site:cnn.com/business 2024 election  after:2024-01-01 before:2024-12-31
+2025-03-28 10:42:58,078 - INFO - Found link: https://www.cnn.com/business/live-news/fed-meeting-november-11-07-24/index.html
+2025-03-28 10:42:58,078 - INFO - Found link: https://www.cnn.com/business/live-news/us-jobs-report-october-11-01-24/index.html
+2025-03-28 10:42:58,078 - INFO - Found link: https://us.cnn.com/business/article/sitemap-2024-3.html
+2025-03-28 10:42:58,078 - INFO - Found link: https://www.cnn.com/business/article/sitemap-2024-4.html
+2025-03-28 10:42:58,078 - INFO - Found link: https://www.cnn.com/business/article/sitemap-2024-2.html
+2025-03-28 10:42:58,078 - INFO - Found link: https://www.cnn.com/business/article/sitemap-2024-5.html
+2025-03-28 10:42:58,078 - INFO - Found link: https://www.cnn.com/business/live-news/federal-reserve-interest-rate-09-18-24/index.html
+2025-03-28 10:42:58,078 - INFO - Found link: https://www.cnn.com/business/live-news/us-jobs-report-august-2024/index.html
+2025-03-28 10:42:58,078 - INFO - Found link: https://www.cnn.com/business/live-news/us-jobs-report-november-2024/index.html
+2025-03-28 10:42:58,078 - INFO - Found link: https://www.cnn.com/business/live-news/columbia-yale-university-protests-04-24-24/index.html
+2025-03-28 10:42:58,078 - INFO - Found link: https://www.cnn.com/business/live-news/global-outage-intl-hnk/index.html
+2025-03-28 10:42:58,078 - INFO - Found link: https://www.cnn.com/business/live-news/us-markets-fed-meeting-july/index.html
+2025-03-28 10:42:58,078 - INFO - Found link: https://www.cnn.com/business/live-news/columbia-yale-protests-passover-04-22-24/index.html
+2025-03-28 10:42:58,079 - INFO - Found link: https://www.cnn.com/business/live-news/federal-reserve-interest-rate-12-18-24/index.html
+2025-03-28 10:42:58,079 - INFO - Found link: https://www.cnn.com/business/live-news/markets-fed-meeting-06-12-24/index.html
+2025-03-28 10:42:58,079 - INFO - Found link: https://www.cnn.com/business/live-news/university-protests-pro-palestinian-israel-05-03-24/index.html
+2025-03-28 10:42:58,079 - INFO - Found link: https://www.cnn.com/business/live-news/university-protests-palestine-04-28-24/index.html
+2025-03-28 10:42:58,079 - INFO - Found link: https://www.cnn.com/business/before-the-bell
+2025-03-28 10:42:58,079 - INFO - Found link: https://www.cnn.com/business/live-news/columbia-university-palestine-protests-04-26-24/index.html
+2025-03-28 10:42:58,079 - INFO - Found link: https://www.cnn.com/business/investing.
+2025-03-28 10:42:58,079 - INFO - Found link: https://www.cnn.com/business/live-news/markets-fed-meeting-03-20-24/index.html
+2025-03-28 10:42:58,079 - INFO - Found link: https://www.cnn.com/business/live-news/university-protests-pro-palestinian-israel-05-02-24/index.html
+2025-03-28 10:42:58,079 - INFO - Found link: https://www.cnn.com/business/media/fox-news-right-wing-media-trump-trial-verdict/index.html
+2025-03-28 10:42:58,079 - INFO - Found link: https://www.cnn.com/business/live-news/university-protests-palestine-04-29-24/index.html
+2025-03-28 10:42:58,079 - INFO - Found link: https://www.cnn.com/business/live-news/university-protests-pro-palestinian-israel-05-05-24/index.html
+2025-03-28 10:42:58,079 - INFO - Found link: https://www.cnn.com/business/live-news/port-strike-ila-10-01-24/index.html
+2025-03-28 10:42:58,079 - INFO - Found link: https://www.cnn.com/business/tech/ces-2024-ai/index.html
+2025-03-28 10:42:58,079 - INFO - Found link: https://www.cnn.com/business/live-news/us-jobs-report-september-10-04-24/index.html
+2025-03-28 10:42:58,079 - INFO - Found link: https://www.cnn.com/business/live-news/university-protests-pro-palestinian-israel-05-04-24/index.html
+2025-03-28 10:42:58,080 - INFO - Found link: https://www.cnn.com/business/live-news/march-jobs-report-04-05-24/index.html
+2025-03-28 10:42:58,080 - INFO - Found link: https://www.cnn.com/business/live-news/us-jobs-report-july-markets/index.html
+2025-03-28 10:42:58,080 - INFO - Found link: https://www.cnn.com/business/live-news/boeing-ceo-testify-senate/index.html
+2025-03-28 10:42:58,080 - INFO - Found link: https://www.cnn.com/business/live-news/columbia-antisemitism-house-testimony/index.html
+2025-03-28 10:42:58,080 - INFO - Found link: https://www.cnn.com/business/live-news/us-jobs-report-june-final/index.html
+2025-03-28 10:42:58,080 - INFO - Found link: https://www.cnn.com/business/boeing-shareholder-proposal-hq-seattle/index.html
+2025-03-28 10:42:58,080 - INFO - Found link: https://www.cnn.com/business/live-news/university-protests-gaza-05-01-24/index.html
+2025-03-28 10:42:58,080 - INFO - Found link: https://www.cnn.com/business/apple-lawsuit-gender-pay-discrimination/index.html
+2025-03-28 10:42:58,080 - INFO - Found link: https://www.cnn.com/business/lessons-in-leadership
+2025-03-28 10:42:58,080 - INFO - Found link: https://www.cnn.com/business/live-news/harvard-president-claudine-gay-plagiarism-probe/index.html
+2025-03-28 10:42:58,080 - INFO - Found link: https://www.cnn.com/business/live-news/april-jobs-report-markets-05-03-24/index.html
+2025-03-28 10:42:58,080 - INFO - Found link: https://www.cnn.com/business/live-news/columbia-yale-student-protests-4-23-24/index.html
+2025-03-28 10:42:58,080 - INFO - Found link: https://www.cnn.com/business/iowa-womens-basketball-ratings-record/index.html
+2025-03-28 10:42:58,080 - INFO - Found link: https://www.cnn.com/business/tech/av1-robot-sick-children-school-spc/index.html
+2025-03-28 10:42:58,081 - INFO - Found link: https://www.cnn.com/business/economy/transgender-americans-economy/index.html
+2025-03-28 10:42:58,081 - INFO - Found link: https://www.cnn.com/business/live-news/jobs-report-january-02-02-24/index.html
+2025-03-28 10:42:58,081 - INFO - Found link: https://www.cnn.com/business/live-news/federal-reserve-meeting-interest-rates-01-31-24/index.html
+2025-03-28 10:42:58,081 - INFO - Found link: https://www.cnn.com/business/live-news/jobs-report-may-06-07-24/index.html
+2025-03-28 10:42:58,081 - INFO - Found link: https://www.cnn.com/business/uzbekistan-handicrafts-suzanis-digital-etsy-spc/index.html
+2025-03-28 10:42:58,081 - INFO - Found link: https://www.cnn.com/business/netflixs-ad-based-plan/index.html
+2025-03-28 10:42:58,081 - INFO - Found link: https://www.cnn.com/business/boeing-737-max/index.html
+2025-03-28 10:42:58,081 - INFO - Found link: https://www.cnn.com/business/indra-nooyi-pepsi-interview-spc/index.html
+2025-03-28 10:42:58,081 - INFO - Found link: https://www.cnn.com/business/live-news/markets-jobs-report-december-010523/index.html
+2025-03-28 10:42:58,081 - INFO - Found link: https://www.cnn.com/business/digital-humans-ai-dj-dex-spc/index.html
+2025-03-28 10:42:58,081 - INFO - Found link: https://www.cnn.com/business/live-news/global-stock-markets-plunge/index.html
+2025-03-28 10:42:58,081 - INFO - Found link: https://www.cnn.com/business/live-news/alaska-airlines-boeing-01-06-24/index.html
+2025-03-28 10:42:58,081 - INFO - Found link: https://www.cnn.com/business/live-news/apple-event-iphone-16-09-09-24/index.html
+2025-03-28 10:42:58,081 - INFO - Found link: https://www.cnn.com/business/video/indra-nooyi-ceo-career-advice-spc
+2025-03-28 10:42:58,081 - INFO - Found link: https://www.cnn.com/business/live-news/markets-fed-chair-powell-testimony-03-06-24/index.html
+2025-03-28 10:42:58,081 - INFO - Found link: https://www.cnn.com/business/tech/lila-ibrahim-google-deepmind-interview-spc/index.html
+2025-03-28 10:42:58,082 - INFO - Found link: https://www.cnn.com/business/live-news/global-stock-market-plunge-08-06-24/index.html
+2025-03-28 10:42:58,082 - INFO - Found link: https://www.cnn.com/business/live-news/college-campus-antisemitism-hearing-05-23-24/index.html
+2025-03-28 10:42:58,082 - INFO - Found link: https://www.cnn.com/business/live-news/columbia-usc-university-protests-04-25-24/index.html
+2025-03-28 10:42:58,082 - INFO - Found link: https://www.cnn.com/business/live-news/jobs-report-june-07-05-24/index.html
+2025-03-28 10:42:58,082 - INFO - Found link: https://www.cnn.com/business/video/clearview-ai-facial-recognition-technology-2020-digvid
+2025-03-28 10:42:58,082 - INFO - Found link: https://www.cnn.com/business/live-news/apple-wwdc-keynote-06-10-24/index.html
+2025-03-28 10:42:58,082 - INFO - Found link: https://www.cnn.com/business/live-news/university-protests-palestine-04-30-24/index.html
+2025-03-28 10:42:58,082 - INFO - Found link: https://www.cnn.com/business/live-news/att-outage-02-22-24/index.html
+2025-03-28 10:42:58,082 - INFO - Found link: https://www.cnn.com/business/live-news/jobs-report-february-03-08-24/index.html
+2025-03-28 10:42:58,082 - INFO - Found link: https://www.cnn.com/business/live-news/university-protests-pro-palestinian-israel-05-06-24/index.html
+2025-03-28 10:42:58,082 - INFO - Found link: https://www.cnn.com/business/live-news/doj-apple-antitrust-lawsuit-03-21-24/index.html
+2025-03-28 10:42:58,082 - INFO - Found link: https://www.cnn.com/business/live-news/sam-bankman-fried-sentencing-03-28-24/index.html
+2025-03-28 10:42:58,082 - INFO - Found link: https://www.cnn.com/business/retailers-crackdown-organized-crime-invs/index.html
+2025-03-28 10:42:58,083 - INFO - Found link: /search?q=site:cnn.com/business+2024+election++after:2024-01-01+before:2024-12-31&num=100&safe=active&sca_esv=ba1bbeed3c806847&hl=en&ie=UTF-8&filter=0
+2025-03-28 10:42:58,656 - INFO - Found link: https://www.cnn.com/business/live-news/global-outage-intl-hnk/index.html
+2025-03-28 10:42:58,656 - INFO - Found link: https://www.cnn.com/business/live-news/us-markets-fed-meeting-july/index.html
+2025-03-28 10:42:58,656 - INFO - Found link: https://www.cnn.com/business/live-news/columbia-yale-protests-passover-04-22-24/index.html
+2025-03-28 10:42:58,656 - INFO - Found link: https://www.cnn.com/business/live-news/federal-reserve-interest-rate-12-18-24/index.html
+2025-03-28 10:42:58,656 - INFO - Found link: https://www.cnn.com/business/live-news/markets-fed-meeting-06-12-24/index.html
+2025-03-28 10:42:58,656 - INFO - Found link: https://www.cnn.com/business/live-news/university-protests-pro-palestinian-israel-05-03-24/index.html
+2025-03-28 10:42:58,656 - INFO - Found link: https://www.cnn.com/business/live-news/university-protests-palestine-04-28-24/index.html
+2025-03-28 10:42:58,656 - INFO - Found link: https://www.cnn.com/business/before-the-bell
+2025-03-28 10:42:58,656 - INFO - Found link: https://www.cnn.com/business/live-news/columbia-university-palestine-protests-04-26-24/index.html
+2025-03-28 10:42:58,656 - INFO - Found link: https://www.cnn.com/business/investing.
+2025-03-28 10:42:58,656 - INFO - Found link: https://www.cnn.com/business/live-news/markets-fed-meeting-03-20-24/index.html
+2025-03-28 10:42:58,657 - INFO - Found link: https://www.cnn.com/business/live-news/university-protests-pro-palestinian-israel-05-02-24/index.html
+2025-03-28 10:42:58,657 - INFO - Found link: https://www.cnn.com/business/media/fox-news-right-wing-media-trump-trial-verdict/index.html
+2025-03-28 10:42:58,657 - INFO - Found link: https://www.cnn.com/business/live-news/university-protests-palestine-04-29-24/index.html
+2025-03-28 10:42:58,657 - INFO - Found link: https://www.cnn.com/business/live-news/university-protests-pro-palestinian-israel-05-05-24/index.html
+2025-03-28 10:42:58,657 - INFO - Found link: https://www.cnn.com/business/live-news/port-strike-ila-10-01-24/index.html
+2025-03-28 10:42:58,657 - INFO - Found link: https://www.cnn.com/business/tech/ces-2024-ai/index.html
+2025-03-28 10:42:58,657 - INFO - Found link: https://www.cnn.com/business/live-news/us-jobs-report-september-10-04-24/index.html
+2025-03-28 10:42:58,657 - INFO - Found link: https://www.cnn.com/business/live-news/university-protests-pro-palestinian-israel-05-04-24/index.html
+2025-03-28 10:42:58,657 - INFO - Found link: https://www.cnn.com/business/live-news/march-jobs-report-04-05-24/index.html
+2025-03-28 10:42:58,657 - INFO - Found link: https://www.cnn.com/business/live-news/us-jobs-report-july-markets/index.html
+2025-03-28 10:42:58,657 - INFO - Found link: https://www.cnn.com/business/live-news/boeing-ceo-testify-senate/index.html
+2025-03-28 10:42:58,657 - INFO - Found link: https://www.cnn.com/business/live-news/columbia-antisemitism-house-testimony/index.html
+2025-03-28 10:42:58,657 - INFO - Found link: https://www.cnn.com/business/live-news/us-jobs-report-june-final/index.html
+2025-03-28 10:42:58,657 - INFO - Found link: https://www.cnn.com/business/boeing-shareholder-proposal-hq-seattle/index.html
+2025-03-28 10:42:58,657 - INFO - Found link: https://www.cnn.com/business/live-news/university-protests-gaza-05-01-24/index.html
+2025-03-28 10:42:58,658 - INFO - Found link: https://www.cnn.com/business/apple-lawsuit-gender-pay-discrimination/index.html
+2025-03-28 10:42:58,658 - INFO - Found link: https://www.cnn.com/business/lessons-in-leadership
+2025-03-28 10:42:58,658 - INFO - Found link: https://www.cnn.com/business/live-news/harvard-president-claudine-gay-plagiarism-probe/index.html
+2025-03-28 10:42:58,658 - INFO - Found link: https://www.cnn.com/business/live-news/april-jobs-report-markets-05-03-24/index.html
+2025-03-28 10:42:58,658 - INFO - Found link: https://www.cnn.com/business/live-news/columbia-yale-student-protests-4-23-24/index.html
+2025-03-28 10:42:58,658 - INFO - Found link: https://www.cnn.com/business/iowa-womens-basketball-ratings-record/index.html
+2025-03-28 10:42:58,658 - INFO - Found link: https://www.cnn.com/business/tech/av1-robot-sick-children-school-spc/index.html
+2025-03-28 10:42:58,658 - INFO - Found link: https://www.cnn.com/business/economy/transgender-americans-economy/index.html
+2025-03-28 10:42:58,658 - INFO - Found link: https://www.cnn.com/business/live-news/jobs-report-january-02-02-24/index.html
+2025-03-28 10:42:58,658 - INFO - Found link: https://www.cnn.com/business/live-news/federal-reserve-meeting-interest-rates-01-31-24/index.html
+2025-03-28 10:42:58,658 - INFO - Found link: https://www.cnn.com/business/live-news/jobs-report-may-06-07-24/index.html
+2025-03-28 10:42:58,658 - INFO - Found link: https://www.cnn.com/business/uzbekistan-handicrafts-suzanis-digital-etsy-spc/index.html
+2025-03-28 10:42:58,658 - INFO - Found link: https://www.cnn.com/business/netflixs-ad-based-plan/index.html
+2025-03-28 10:42:58,658 - INFO - Found link: https://www.cnn.com/business/boeing-737-max/index.html
+2025-03-28 10:42:58,658 - INFO - Found link: https://www.cnn.com/business/indra-nooyi-pepsi-interview-spc/index.html
+2025-03-28 10:42:58,659 - INFO - Found link: https://www.cnn.com/business/live-news/markets-jobs-report-december-010523/index.html
+2025-03-28 10:42:58,659 - INFO - Found link: https://www.cnn.com/business/digital-humans-ai-dj-dex-spc/index.html
+2025-03-28 10:42:58,659 - INFO - Found link: https://www.cnn.com/business/live-news/global-stock-markets-plunge/index.html
+2025-03-28 10:42:58,659 - INFO - Found link: https://www.cnn.com/business/live-news/alaska-airlines-boeing-01-06-24/index.html
+2025-03-28 10:42:58,659 - INFO - Found link: https://www.cnn.com/business/live-news/apple-event-iphone-16-09-09-24/index.html
+2025-03-28 10:42:58,659 - INFO - Found link: https://www.cnn.com/business/video/indra-nooyi-ceo-career-advice-spc
+2025-03-28 10:42:58,659 - INFO - Found link: https://www.cnn.com/business/live-news/markets-fed-chair-powell-testimony-03-06-24/index.html
+2025-03-28 10:42:58,659 - INFO - Found link: https://www.cnn.com/business/tech/lila-ibrahim-google-deepmind-interview-spc/index.html
+2025-03-28 10:42:58,659 - INFO - Found link: https://www.cnn.com/business/live-news/global-stock-market-plunge-08-06-24/index.html
+2025-03-28 10:42:58,659 - INFO - Found link: https://www.cnn.com/business/live-news/college-campus-antisemitism-hearing-05-23-24/index.html
+2025-03-28 10:42:58,659 - INFO - Found link: https://www.cnn.com/business/live-news/columbia-usc-university-protests-04-25-24/index.html
+2025-03-28 10:42:58,659 - INFO - Found link: https://www.cnn.com/business/live-news/jobs-report-june-07-05-24/index.html
+2025-03-28 10:42:58,659 - INFO - Found link: https://www.cnn.com/business/video/clearview-ai-facial-recognition-technology-2020-digvid
+2025-03-28 10:42:58,659 - INFO - Found link: https://www.cnn.com/business/live-news/apple-wwdc-keynote-06-10-24/index.html
+2025-03-28 10:42:58,659 - INFO - Found link: https://www.cnn.com/business/live-news/university-protests-palestine-04-30-24/index.html
+2025-03-28 10:42:58,660 - INFO - Found link: https://www.cnn.com/business/live-news/att-outage-02-22-24/index.html
+2025-03-28 10:42:58,660 - INFO - Found link: https://www.cnn.com/business/live-news/jobs-report-february-03-08-24/index.html
+2025-03-28 10:42:58,660 - INFO - Found link: https://www.cnn.com/business/live-news/university-protests-pro-palestinian-israel-05-06-24/index.html
+2025-03-28 10:42:58,660 - INFO - Found link: https://www.cnn.com/business/live-news/doj-apple-antitrust-lawsuit-03-21-24/index.html
+2025-03-28 10:42:58,660 - INFO - Found link: https://www.cnn.com/business/live-news/sam-bankman-fried-sentencing-03-28-24/index.html
+2025-03-28 10:42:58,660 - INFO - Found link: https://www.cnn.com/business/retailers-crackdown-organized-crime-invs/index.html
+2025-03-28 10:42:58,660 - INFO - Found link: https://www.google.com/search?num=100
+2025-03-28 10:42:58,660 - INFO - Found link: /search?q=site:cnn.com/business+2024+election++after:2024-01-01+before:2024-12-31&num=100&safe=active&sca_esv=ba1bbeed3c806847&hl=en&ie=UTF-8&filter=0
+2025-03-28 10:42:59,802 - INFO - Found link: https://www.cnn.com/business/live-news/markets-fed-meeting-03-20-24/index.html
+2025-03-28 10:42:59,803 - INFO - Found link: https://www.cnn.com/business/live-news/university-protests-pro-palestinian-israel-05-02-24/index.html
+2025-03-28 10:42:59,803 - INFO - Found link: https://www.cnn.com/business/media/fox-news-right-wing-media-trump-trial-verdict/index.html
+2025-03-28 10:42:59,803 - INFO - Found link: https://www.cnn.com/business/live-news/university-protests-palestine-04-29-24/index.html
+2025-03-28 10:42:59,803 - INFO - Found link: https://www.cnn.com/business/live-news/university-protests-pro-palestinian-israel-05-05-24/index.html
+2025-03-28 10:42:59,803 - INFO - Found link: https://www.cnn.com/business/live-news/port-strike-ila-10-01-24/index.html
+2025-03-28 10:42:59,803 - INFO - Found link: https://www.cnn.com/business/tech/ces-2024-ai/index.html
+2025-03-28 10:42:59,803 - INFO - Found link: https://www.cnn.com/business/live-news/us-jobs-report-september-10-04-24/index.html
+2025-03-28 10:42:59,803 - INFO - Found link: https://www.cnn.com/business/live-news/university-protests-pro-palestinian-israel-05-04-24/index.html
+2025-03-28 10:42:59,803 - INFO - Found link: https://www.cnn.com/business/live-news/march-jobs-report-04-05-24/index.html
+2025-03-28 10:42:59,803 - INFO - Found link: https://www.cnn.com/business/live-news/us-jobs-report-july-markets/index.html
+2025-03-28 10:42:59,803 - INFO - Found link: https://www.cnn.com/business/live-news/boeing-ceo-testify-senate/index.html
+2025-03-28 10:42:59,803 - INFO - Found link: https://www.cnn.com/business/live-news/columbia-antisemitism-house-testimony/index.html
+2025-03-28 10:42:59,804 - INFO - Found link: https://www.cnn.com/business/live-news/us-jobs-report-june-final/index.html
+2025-03-28 10:42:59,804 - INFO - Found link: https://www.cnn.com/business/boeing-shareholder-proposal-hq-seattle/index.html
+2025-03-28 10:42:59,804 - INFO - Found link: https://www.cnn.com/business/live-news/university-protests-gaza-05-01-24/index.html
+2025-03-28 10:42:59,804 - INFO - Found link: https://www.cnn.com/business/apple-lawsuit-gender-pay-discrimination/index.html
+2025-03-28 10:42:59,804 - INFO - Found link: https://www.cnn.com/business/lessons-in-leadership
+2025-03-28 10:42:59,804 - INFO - Found link: https://www.cnn.com/business/live-news/harvard-president-claudine-gay-plagiarism-probe/index.html
+2025-03-28 10:42:59,804 - INFO - Found link: https://www.cnn.com/business/live-news/april-jobs-report-markets-05-03-24/index.html
+2025-03-28 10:42:59,804 - INFO - Found link: https://www.cnn.com/business/live-news/columbia-yale-student-protests-4-23-24/index.html
+2025-03-28 10:42:59,804 - INFO - Found link: https://www.cnn.com/business/iowa-womens-basketball-ratings-record/index.html
+2025-03-28 10:42:59,804 - INFO - Found link: https://www.cnn.com/business/tech/av1-robot-sick-children-school-spc/index.html
+2025-03-28 10:42:59,804 - INFO - Found link: https://www.cnn.com/business/economy/transgender-americans-economy/index.html
+2025-03-28 10:42:59,804 - INFO - Found link: https://www.cnn.com/business/live-news/jobs-report-january-02-02-24/index.html
+2025-03-28 10:42:59,804 - INFO - Found link: https://www.cnn.com/business/live-news/federal-reserve-meeting-interest-rates-01-31-24/index.html
+2025-03-28 10:42:59,804 - INFO - Found link: https://www.cnn.com/business/live-news/jobs-report-may-06-07-24/index.html
+2025-03-28 10:42:59,804 - INFO - Found link: https://www.cnn.com/business/uzbekistan-handicrafts-suzanis-digital-etsy-spc/index.html
+2025-03-28 10:42:59,805 - INFO - Found link: https://www.cnn.com/business/netflixs-ad-based-plan/index.html
+2025-03-28 10:42:59,805 - INFO - Found link: https://www.cnn.com/business/boeing-737-max/index.html
+2025-03-28 10:42:59,805 - INFO - Found link: https://www.cnn.com/business/indra-nooyi-pepsi-interview-spc/index.html
+2025-03-28 10:42:59,805 - INFO - Found link: https://www.cnn.com/business/live-news/markets-jobs-report-december-010523/index.html
+2025-03-28 10:42:59,805 - INFO - Found link: https://www.cnn.com/business/digital-humans-ai-dj-dex-spc/index.html
+2025-03-28 10:42:59,805 - INFO - Found link: https://www.cnn.com/business/live-news/global-stock-markets-plunge/index.html
+2025-03-28 10:42:59,805 - INFO - Found link: https://www.cnn.com/business/live-news/alaska-airlines-boeing-01-06-24/index.html
+2025-03-28 10:42:59,805 - INFO - Found link: https://www.cnn.com/business/live-news/apple-event-iphone-16-09-09-24/index.html
+2025-03-28 10:42:59,805 - INFO - Found link: https://www.cnn.com/business/video/indra-nooyi-ceo-career-advice-spc
+2025-03-28 10:42:59,805 - INFO - Found link: https://www.cnn.com/business/live-news/markets-fed-chair-powell-testimony-03-06-24/index.html
+2025-03-28 10:42:59,805 - INFO - Found link: https://www.cnn.com/business/tech/lila-ibrahim-google-deepmind-interview-spc/index.html
+2025-03-28 10:42:59,805 - INFO - Found link: https://www.cnn.com/business/live-news/global-stock-market-plunge-08-06-24/index.html
+2025-03-28 10:42:59,805 - INFO - Found link: https://www.cnn.com/business/live-news/college-campus-antisemitism-hearing-05-23-24/index.html
+2025-03-28 10:42:59,805 - INFO - Found link: https://www.cnn.com/business/live-news/columbia-usc-university-protests-04-25-24/index.html
+2025-03-28 10:42:59,805 - INFO - Found link: https://www.cnn.com/business/live-news/jobs-report-june-07-05-24/index.html
+2025-03-28 10:42:59,806 - INFO - Found link: https://www.cnn.com/business/video/clearview-ai-facial-recognition-technology-2020-digvid
+2025-03-28 10:42:59,806 - INFO - Found link: https://www.cnn.com/business/live-news/apple-wwdc-keynote-06-10-24/index.html
+2025-03-28 10:42:59,806 - INFO - Found link: https://www.cnn.com/business/live-news/university-protests-palestine-04-30-24/index.html
+2025-03-28 10:42:59,806 - INFO - Found link: https://www.cnn.com/business/live-news/att-outage-02-22-24/index.html
+2025-03-28 10:42:59,806 - INFO - Found link: https://www.cnn.com/business/live-news/jobs-report-february-03-08-24/index.html
+2025-03-28 10:42:59,806 - INFO - Found link: https://www.cnn.com/business/live-news/university-protests-pro-palestinian-israel-05-06-24/index.html
+2025-03-28 10:42:59,806 - INFO - Found link: https://www.cnn.com/business/live-news/doj-apple-antitrust-lawsuit-03-21-24/index.html
+2025-03-28 10:42:59,806 - INFO - Found link: https://www.cnn.com/business/live-news/sam-bankman-fried-sentencing-03-28-24/index.html
+2025-03-28 10:42:59,806 - INFO - Found link: https://www.cnn.com/business/retailers-crackdown-organized-crime-invs/index.html
+2025-03-28 10:42:59,806 - INFO - Found link: https://www.google.com/search?num=100
+2025-03-28 10:42:59,806 - INFO - Found link: /search?q=site:cnn.com/business+2024+election++after:2024-01-01+before:2024-12-31&num=100&safe=active&sca_esv=ba1bbeed3c806847&hl=en&ie=UTF-8&filter=0
+2025-03-28 10:43:01,102 - INFO - Found link: https://www.cnn.com/business/live-news/march-jobs-report-04-05-24/index.html
+2025-03-28 10:43:01,102 - INFO - Found link: https://www.cnn.com/business/live-news/markets-fed-meeting-03-20-24/index.html
+2025-03-28 10:43:01,102 - INFO - Found link: https://www.cnn.com/business/live-news/columbia-antisemitism-house-testimony/index.html
+2025-03-28 10:43:01,103 - INFO - Found link: https://www.cnn.com/business/iowa-womens-basketball-ratings-record/index.html
+2025-03-28 10:43:01,103 - INFO - Found link: https://www.cnn.com/business/boeing-shareholder-proposal-hq-seattle/index.html
+2025-03-28 10:43:01,103 - INFO - Found link: https://www.cnn.com/business/live-news/us-jobs-report-september-10-04-24/index.html
+2025-03-28 10:43:01,103 - INFO - Found link: https://www.cnn.com/business/live-news/us-jobs-report-june-final/index.html
+2025-03-28 10:43:01,103 - INFO - Found link: https://www.cnn.com/business/boeing-737-max/index.html
+2025-03-28 10:43:01,103 - INFO - Found link: https://www.cnn.com/business/tech/av1-robot-sick-children-school-spc/index.html
+2025-03-28 10:43:01,103 - INFO - Found link: https://www.cnn.com/business/live-news/harvard-president-claudine-gay-plagiarism-probe/index.html
+2025-03-28 10:43:01,103 - INFO - Found link: https://www.cnn.com/business/lessons-in-leadership
+2025-03-28 10:43:01,103 - INFO - Found link: https://www.cnn.com/business/apple-lawsuit-gender-pay-discrimination/index.html
+2025-03-28 10:43:01,103 - INFO - Found link: https://www.cnn.com/business/live-news/april-jobs-report-markets-05-03-24/index.html
+2025-03-28 10:43:01,103 - INFO - Found link: https://www.cnn.com/business/live-news/global-stock-market-plunge-08-06-24/index.html
+2025-03-28 10:43:01,104 - INFO - Found link: https://www.cnn.com/business/economy/transgender-americans-economy/index.html
+2025-03-28 10:43:01,104 - INFO - Found link: https://www.cnn.com/business/netflixs-ad-based-plan/index.html
+2025-03-28 10:43:01,104 - INFO - Found link: https://www.cnn.com/business/live-news/columbia-yale-student-protests-4-23-24/index.html
+2025-03-28 10:43:01,104 - INFO - Found link: https://www.cnn.com/business/live-news/federal-reserve-meeting-interest-rates-01-31-24/index.html
+2025-03-28 10:43:01,104 - INFO - Found link: https://www.cnn.com/business/uzbekistan-handicrafts-suzanis-digital-etsy-spc/index.html
+2025-03-28 10:43:01,104 - INFO - Found link: https://www.cnn.com/business/live-news/jobs-report-may-06-07-24/index.html
+2025-03-28 10:43:01,104 - INFO - Found link: https://www.cnn.com/business/live-news/college-campus-antisemitism-hearing-05-23-24/index.html
+2025-03-28 10:43:01,104 - INFO - Found link: https://www.cnn.com/business/live-news/global-stock-markets-plunge/index.html
+2025-03-28 10:43:01,104 - INFO - Found link: https://www.cnn.com/business/tech/lila-ibrahim-google-deepmind-interview-spc/index.html
+2025-03-28 10:43:01,104 - INFO - Found link: https://www.cnn.com/business/live-news/apple-event-iphone-16-09-09-24/index.html
+2025-03-28 10:43:01,104 - INFO - Found link: https://www.cnn.com/business/live-news/markets-fed-chair-powell-testimony-03-06-24/index.html
+2025-03-28 10:43:01,104 - INFO - Found link: https://www.cnn.com/business/live-news/alaska-airlines-boeing-01-06-24/index.html
+2025-03-28 10:43:01,104 - INFO - Found link: https://www.cnn.com/business/digital-humans-ai-dj-dex-spc/index.html
+2025-03-28 10:43:01,104 - INFO - Found link: https://www.cnn.com/business/live-news/jobs-report-june-07-05-24/index.html
+2025-03-28 10:43:01,104 - INFO - Found link: https://www.cnn.com/business/video/indra-nooyi-ceo-career-advice-spc
+2025-03-28 10:43:01,105 - INFO - Found link: https://www.cnn.com/business/indra-nooyi-pepsi-interview-spc/index.html
+2025-03-28 10:43:01,105 - INFO - Found link: https://www.cnn.com/business/live-news/columbia-usc-university-protests-04-25-24/index.html
+2025-03-28 10:43:01,105 - INFO - Found link: https://www.cnn.com/business/live-news/markets-jobs-report-december-010523/index.html
+2025-03-28 10:43:01,105 - INFO - Found link: https://www.cnn.com/business/video/clearview-ai-facial-recognition-technology-2020-digvid
+2025-03-28 10:43:01,105 - INFO - Found link: https://www.cnn.com/business/live-news/university-protests-palestine-04-30-24/index.html
+2025-03-28 10:43:01,105 - INFO - Found link: https://www.cnn.com/business/live-news/jobs-report-february-03-08-24/index.html
+2025-03-28 10:43:01,105 - INFO - Found link: https://www.cnn.com/business/live-news/apple-wwdc-keynote-06-10-24/index.html
+2025-03-28 10:43:01,105 - INFO - Found link: https://www.cnn.com/business/live-news/att-outage-02-22-24/index.html
+2025-03-28 10:43:01,105 - INFO - Found link: https://www.cnn.com/business/live-news/doj-apple-antitrust-lawsuit-03-21-24/index.html
+2025-03-28 10:43:01,105 - INFO - Found link: https://www.cnn.com/business/live-news/university-protests-pro-palestinian-israel-05-06-24/index.html
+2025-03-28 10:43:01,105 - INFO - Found link: https://www.cnn.com/business/live-news/sam-bankman-fried-sentencing-03-28-24/index.html
+2025-03-28 10:43:01,105 - INFO - Found link: https://www.cnn.com/business/media/fox-news-right-wing-media-trump-trial-verdict/index.html
+2025-03-28 10:43:01,105 - INFO - Found link: https://www.cnn.com/business/retailers-crackdown-organized-crime-invs/index.html
+2025-03-28 10:43:01,105 - INFO - Found link: https://www.google.com/search?num=100
+2025-03-28 10:43:01,105 - INFO - Found link: /search?q=site:cnn.com/business+2024+election++after:2024-01-01+before:2024-12-31&num=100&safe=active&sca_esv=ba1bbeed3c806847&hl=en&ie=UTF-8&filter=0
+2025-03-28 10:43:01,889 - INFO - Found link: https://www.cnn.com/business/live-news/columbia-yale-student-protests-4-23-24/index.html
+2025-03-28 10:43:01,889 - INFO - Found link: https://www.cnn.com/business/iowa-womens-basketball-ratings-record/index.html
+2025-03-28 10:43:01,889 - INFO - Found link: https://www.cnn.com/business/tech/av1-robot-sick-children-school-spc/index.html
+2025-03-28 10:43:01,889 - INFO - Found link: https://www.cnn.com/business/economy/transgender-americans-economy/index.html
+2025-03-28 10:43:01,889 - INFO - Found link: https://www.cnn.com/business/live-news/jobs-report-january-02-02-24/index.html
+2025-03-28 10:43:01,889 - INFO - Found link: https://www.cnn.com/business/live-news/federal-reserve-meeting-interest-rates-01-31-24/index.html
+2025-03-28 10:43:01,889 - INFO - Found link: https://www.cnn.com/business/live-news/jobs-report-may-06-07-24/index.html
+2025-03-28 10:43:01,889 - INFO - Found link: https://www.cnn.com/business/uzbekistan-handicrafts-suzanis-digital-etsy-spc/index.html
+2025-03-28 10:43:01,889 - INFO - Found link: https://www.cnn.com/business/netflixs-ad-based-plan/index.html
+2025-03-28 10:43:01,889 - INFO - Found link: https://www.cnn.com/business/boeing-737-max/index.html
+2025-03-28 10:43:01,889 - INFO - Found link: https://www.cnn.com/business/indra-nooyi-pepsi-interview-spc/index.html
+2025-03-28 10:43:01,890 - INFO - Found link: https://www.cnn.com/business/live-news/markets-jobs-report-december-010523/index.html
+2025-03-28 10:43:01,890 - INFO - Found link: https://www.cnn.com/business/digital-humans-ai-dj-dex-spc/index.html
+2025-03-28 10:43:01,890 - INFO - Found link: https://www.cnn.com/business/live-news/global-stock-markets-plunge/index.html
+2025-03-28 10:43:01,890 - INFO - Found link: https://www.cnn.com/business/live-news/alaska-airlines-boeing-01-06-24/index.html
+2025-03-28 10:43:01,890 - INFO - Found link: https://www.cnn.com/business/live-news/apple-event-iphone-16-09-09-24/index.html
+2025-03-28 10:43:01,890 - INFO - Found link: https://www.cnn.com/business/video/indra-nooyi-ceo-career-advice-spc
+2025-03-28 10:43:01,890 - INFO - Found link: https://www.cnn.com/business/live-news/markets-fed-chair-powell-testimony-03-06-24/index.html
+2025-03-28 10:43:01,890 - INFO - Found link: https://www.cnn.com/business/tech/lila-ibrahim-google-deepmind-interview-spc/index.html
+2025-03-28 10:43:01,890 - INFO - Found link: https://www.cnn.com/business/live-news/global-stock-market-plunge-08-06-24/index.html
+2025-03-28 10:43:01,890 - INFO - Found link: https://www.cnn.com/business/live-news/college-campus-antisemitism-hearing-05-23-24/index.html
+2025-03-28 10:43:01,890 - INFO - Found link: https://www.cnn.com/business/live-news/columbia-usc-university-protests-04-25-24/index.html
+2025-03-28 10:43:01,890 - INFO - Found link: https://www.cnn.com/business/live-news/jobs-report-june-07-05-24/index.html
+2025-03-28 10:43:01,890 - INFO - Found link: https://www.cnn.com/business/video/clearview-ai-facial-recognition-technology-2020-digvid
+2025-03-28 10:43:01,891 - INFO - Found link: https://www.cnn.com/business/live-news/apple-wwdc-keynote-06-10-24/index.html
+2025-03-28 10:43:01,891 - INFO - Found link: https://www.cnn.com/business/live-news/university-protests-palestine-04-30-24/index.html
+2025-03-28 10:43:01,891 - INFO - Found link: https://www.cnn.com/business/live-news/att-outage-02-22-24/index.html
+2025-03-28 10:43:01,891 - INFO - Found link: https://www.cnn.com/business/live-news/jobs-report-february-03-08-24/index.html
+2025-03-28 10:43:01,891 - INFO - Found link: https://www.cnn.com/business/live-news/university-protests-pro-palestinian-israel-05-06-24/index.html
+2025-03-28 10:43:01,891 - INFO - Found link: https://www.cnn.com/business/live-news/doj-apple-antitrust-lawsuit-03-21-24/index.html
+2025-03-28 10:43:01,891 - INFO - Found link: https://www.cnn.com/business/live-news/sam-bankman-fried-sentencing-03-28-24/index.html
+2025-03-28 10:43:01,891 - INFO - Found link: https://www.cnn.com/business/retailers-crackdown-organized-crime-invs/index.html
+2025-03-28 10:43:01,891 - INFO - Found link: https://www.google.com/search?num=100
+2025-03-28 10:43:01,891 - INFO - Found link: /search?q=site:cnn.com/business+2024+election++after:2024-01-01+before:2024-12-31&num=100&safe=active&sca_esv=ba1bbeed3c806847&hl=en&ie=UTF-8&filter=0
+2025-03-28 10:43:02,714 - INFO - Found link: https://www.cnn.com/business/indra-nooyi-pepsi-interview-spc/index.html
+2025-03-28 10:43:02,714 - INFO - Found link: https://www.cnn.com/business/live-news/markets-jobs-report-december-010523/index.html
+2025-03-28 10:43:02,714 - INFO - Found link: https://www.cnn.com/business/digital-humans-ai-dj-dex-spc/index.html
+2025-03-28 10:43:02,714 - INFO - Found link: https://www.cnn.com/business/live-news/global-stock-markets-plunge/index.html
+2025-03-28 10:43:02,715 - INFO - Found link: https://www.cnn.com/business/live-news/alaska-airlines-boeing-01-06-24/index.html
+2025-03-28 10:43:02,715 - INFO - Found link: https://www.cnn.com/business/live-news/apple-event-iphone-16-09-09-24/index.html
+2025-03-28 10:43:02,715 - INFO - Found link: https://www.cnn.com/business/video/indra-nooyi-ceo-career-advice-spc
+2025-03-28 10:43:02,715 - INFO - Found link: https://www.cnn.com/business/live-news/markets-fed-chair-powell-testimony-03-06-24/index.html
+2025-03-28 10:43:02,715 - INFO - Found link: https://www.cnn.com/business/tech/lila-ibrahim-google-deepmind-interview-spc/index.html
+2025-03-28 10:43:02,715 - INFO - Found link: https://www.cnn.com/business/live-news/global-stock-market-plunge-08-06-24/index.html
+2025-03-28 10:43:02,715 - INFO - Found link: https://www.cnn.com/business/live-news/college-campus-antisemitism-hearing-05-23-24/index.html
+2025-03-28 10:43:02,715 - INFO - Found link: https://www.cnn.com/business/live-news/columbia-usc-university-protests-04-25-24/index.html
+2025-03-28 10:43:02,715 - INFO - Found link: https://www.cnn.com/business/live-news/jobs-report-june-07-05-24/index.html
+2025-03-28 10:43:02,715 - INFO - Found link: https://www.cnn.com/business/video/clearview-ai-facial-recognition-technology-2020-digvid
+2025-03-28 10:43:02,715 - INFO - Found link: https://www.cnn.com/business/live-news/apple-wwdc-keynote-06-10-24/index.html
+2025-03-28 10:43:02,715 - INFO - Found link: https://www.cnn.com/business/live-news/university-protests-palestine-04-30-24/index.html
+2025-03-28 10:43:02,715 - INFO - Found link: https://www.cnn.com/business/live-news/att-outage-02-22-24/index.html
+2025-03-28 10:43:02,716 - INFO - Found link: https://www.cnn.com/business/live-news/jobs-report-february-03-08-24/index.html
+2025-03-28 10:43:02,716 - INFO - Found link: https://www.cnn.com/business/live-news/university-protests-pro-palestinian-israel-05-06-24/index.html
+2025-03-28 10:43:02,716 - INFO - Found link: https://www.cnn.com/business/live-news/doj-apple-antitrust-lawsuit-03-21-24/index.html
+2025-03-28 10:43:02,716 - INFO - Found link: https://www.cnn.com/business/live-news/sam-bankman-fried-sentencing-03-28-24/index.html
+2025-03-28 10:43:02,716 - INFO - Found link: https://www.cnn.com/business/retailers-crackdown-organized-crime-invs/index.html
+2025-03-28 10:43:02,716 - INFO - Found link: https://www.google.com/search?num=100
+2025-03-28 10:43:02,716 - INFO - Found link: /search?q=site:cnn.com/business+2024+election++after:2024-01-01+before:2024-12-31&num=100&safe=active&sca_esv=ba1bbeed3c806847&hl=en&ie=UTF-8&filter=0
+2025-03-28 10:43:03,611 - INFO - Found link: https://www.cnn.com/business/live-news/global-outage-intl-hnk/index.html
+2025-03-28 10:43:03,611 - INFO - Found link: https://www.cnn.com/business/live-news/markets-fed-meeting-06-12-24/index.html
+2025-03-28 10:43:03,612 - INFO - Found link: https://www.cnn.com/business/live-news/us-markets-fed-meeting-july/index.html
+2025-03-28 10:43:03,612 - INFO - Found link: https://www.cnn.com/business/live-news/us-jobs-report-november-2024/index.html
+2025-03-28 10:43:03,612 - INFO - Found link: https://www.cnn.com/business/live-news/university-protests-pro-palestinian-israel-05-03-24/index.html
+2025-03-28 10:43:03,612 - INFO - Found link: https://www.cnn.com/business/live-news/university-protests-palestine-04-28-24/index.html
+2025-03-28 10:43:03,612 - INFO - Found link: https://www.cnn.com/business/live-news/columbia-yale-protests-passover-04-22-24/index.html
+2025-03-28 10:43:03,612 - INFO - Found link: https://www.cnn.com/business/live-news/university-protests-palestine-04-29-24/index.html
+2025-03-28 10:43:03,612 - INFO - Found link: https://www.cnn.com/business/live-news/columbia-yale-university-protests-04-24-24/index.html
+2025-03-28 10:43:03,612 - INFO - Found link: https://www.cnn.com/business/before-the-bell
+2025-03-28 10:43:03,613 - INFO - Found link: /search?q=site:cnn.com/business+2024+election++after:2024-01-01+before:2024-12-31&num=100&safe=active&sca_esv=ba1bbeed3c806847&hl=en&ie=UTF-8&filter=0
+2025-03-28 10:43:04,315 - INFO - Found link: https://www.cnn.com/business/live-news/sam-bankman-fried-sentencing-03-28-24/index.html
+2025-03-28 10:43:04,315 - INFO - Found link: https://www.cnn.com/business/retailers-crackdown-organized-crime-invs/index.html
+2025-03-28 10:43:04,315 - INFO - Found link: https://www.google.com/search?num=100
+2025-03-28 10:43:04,315 - INFO - Found link: /search?q=site:cnn.com/business+2024+election++after:2024-01-01+before:2024-12-31&num=100&safe=active&sca_esv=ba1bbeed3c806847&hl=en&ie=UTF-8&filter=0
+2025-03-28 10:43:04,935 - INFO - Found link: https://www.google.com/search?num=100
+2025-03-28 10:43:04,935 - INFO - Found link: /search?q=site:cnn.com/business+2024+election++after:2024-01-01+before:2024-12-31&num=100&safe=active&sca_esv=ba1bbeed3c806847&hl=en&ie=UTF-8&filter=0
+2025-03-28 10:43:05,653 - INFO - Found link: https://www.google.com/search?num=100
+2025-03-28 10:43:05,654 - INFO - Found link: /search?q=site:cnn.com/business+2024+election++after:2024-01-01+before:2024-12-31&num=100&safe=active&sca_esv=ba1bbeed3c806847&hl=en&ie=UTF-8&filter=0
+2025-03-28 10:43:06,362 - INFO - Found link: https://www.google.com/search?num=100
+2025-03-28 10:43:06,362 - INFO - Found link: /search?q=site:cnn.com/business+2024+election++after:2024-01-01+before:2024-12-31&num=100&safe=active&sca_esv=ba1bbeed3c806847&hl=en&ie=UTF-8&filter=0
+2025-03-28 10:43:06,778 - INFO - Found link: 
+2025-03-28 10:43:06,778 - INFO - Found link: /search?q=site:cnn.com/business+2024+election++after:2024-01-01+before:2024-12-31&num=100&safe=active&sca_esv=ba1bbeed3c806847&hl=en&ie=UTF-8&filter=0
+2025-03-28 10:43:07,391 - INFO - Found link: 
+2025-03-28 10:43:07,391 - INFO - Found link: /search?q=site:cnn.com/business+2024+election++after:2024-01-01+before:2024-12-31&num=100&safe=active&sca_esv=ba1bbeed3c806847&hl=en&ie=UTF-8&filter=0
+2025-03-28 10:43:07,865 - INFO - Found link: 
+2025-03-28 10:43:07,865 - INFO - Found link: /search?q=site:cnn.com/business+2024+election++after:2024-01-01+before:2024-12-31&num=100&safe=active&sca_esv=ba1bbeed3c806847&hl=en&ie=UTF-8&filter=0
+2025-03-28 10:43:08,622 - INFO - Found link: 
+2025-03-28 10:43:08,622 - INFO - Found link: /search?q=site:cnn.com/business+2024+election++after:2024-01-01+before:2024-12-31&num=100&safe=active&sca_esv=ba1bbeed3c806847&hl=en&ie=UTF-8&filter=0
+2025-03-28 10:43:09,395 - INFO - Found link: 
+2025-03-28 10:43:09,395 - INFO - Found link: /search?q=site:cnn.com/business+2024+election++after:2024-01-01+before:2024-12-31&num=100&safe=active&sca_esv=ba1bbeed3c806847&hl=en&ie=UTF-8&filter=0
+2025-03-28 10:43:10,059 - INFO - Found link: 
+2025-03-28 10:43:10,059 - INFO - Found link: /search?q=site:cnn.com/business+2024+election++after:2024-01-01+before:2024-12-31&num=100&safe=active&sca_esv=ba1bbeed3c806847&hl=en&ie=UTF-8&filter=0
+2025-03-28 10:43:11,208 - INFO - Found link: 
+2025-03-28 10:43:11,209 - INFO - Found link: /search?q=site:cnn.com/business+2024+election++after:2024-01-01+before:2024-12-31&num=100&safe=active&sca_esv=ba1bbeed3c806847&hl=en&ie=UTF-8&filter=0
+2025-03-28 10:43:11,748 - INFO - Found link: 
+2025-03-28 10:43:11,749 - INFO - Found link: /search?q=site:cnn.com/business+2024+election++after:2024-01-01+before:2024-12-31&num=100&safe=active&sca_esv=ba1bbeed3c806847&hl=en&ie=UTF-8&filter=0
+2025-03-28 10:43:12,317 - INFO - Found link: https://www.cnn.com/business/live-news/port-strike-ila-10-01-24/index.html
+2025-03-28 10:43:12,318 - INFO - Found link: https://www.cnn.com/business/live-news/university-protests-pro-palestinian-israel-05-04-24/index.html
+2025-03-28 10:43:12,318 - INFO - Found link: https://www.cnn.com/business/live-news/boeing-ceo-testify-senate/index.html
+2025-03-28 10:43:12,318 - INFO - Found link: https://www.cnn.com/business/tech/ces-2024-ai/index.html
+2025-03-28 10:43:12,318 - INFO - Found link: https://www.cnn.com/business/live-news/march-jobs-report-04-05-24/index.html
+2025-03-28 10:43:12,318 - INFO - Found link: https://www.cnn.com/business/live-news/markets-fed-meeting-03-20-24/index.html
+2025-03-28 10:43:12,318 - INFO - Found link: https://www.cnn.com/business/live-news/columbia-antisemitism-house-testimony/index.html
+2025-03-28 10:43:12,318 - INFO - Found link: https://www.cnn.com/business/iowa-womens-basketball-ratings-record/index.html
+2025-03-28 10:43:12,318 - INFO - Found link: https://www.cnn.com/business/boeing-shareholder-proposal-hq-seattle/index.html
+2025-03-28 10:43:12,319 - INFO - Found link: https://www.cnn.com/business/live-news/us-jobs-report-september-10-04-24/index.html
+2025-03-28 10:43:12,319 - INFO - Found link: https://www.cnn.com/business/live-news/us-jobs-report-june-final/index.html
+2025-03-28 10:43:12,319 - INFO - Found link: https://www.cnn.com/business/boeing-737-max/index.html
+2025-03-28 10:43:12,319 - INFO - Found link: https://www.cnn.com/business/tech/av1-robot-sick-children-school-spc/index.html
+2025-03-28 10:43:12,319 - INFO - Found link: /search?q=site:cnn.com/business+2024+election++after:2024-01-01+before:2024-12-31&num=100&safe=active&sca_esv=ba1bbeed3c806847&hl=en&ie=UTF-8&filter=0
+2025-03-28 10:43:13,537 - INFO - Found link: 
+2025-03-28 10:43:13,537 - INFO - Found link: /search?q=site:cnn.com/business+2024+election++after:2024-01-01+before:2024-12-31&num=100&safe=active&sca_esv=ba1bbeed3c806847&hl=en&ie=UTF-8&filter=0
+2025-03-28 10:43:14,656 - INFO - Found link: 
+2025-03-28 10:43:14,656 - INFO - Found link: /search?q=site:cnn.com/business+2024+election++after:2024-01-01+before:2024-12-31&num=100&safe=active&sca_esv=ba1bbeed3c806847&hl=en&ie=UTF-8&filter=0
+2025-03-28 10:43:15,840 - INFO - Found link: 
+2025-03-28 10:43:15,840 - INFO - Found link: /search?q=site:cnn.com/business+2024+election++after:2024-01-01+before:2024-12-31&num=100&safe=active&sca_esv=ba1bbeed3c806847&hl=en&ie=UTF-8&filter=0
+2025-03-28 10:43:16,916 - INFO - Found link: 
+2025-03-28 10:43:16,916 - INFO - Found link: /search?q=site:cnn.com/business+2024+election++after:2024-01-01+before:2024-12-31&num=100&safe=active&sca_esv=ba1bbeed3c806847&hl=en&ie=UTF-8&filter=0
+2025-03-28 10:43:17,956 - INFO - Found link: 
+2025-03-28 10:43:17,957 - INFO - Found link: /search?q=site:cnn.com/business+2024+election++after:2024-01-01+before:2024-12-31&num=100&safe=active&sca_esv=ba1bbeed3c806847&hl=en&ie=UTF-8&filter=0
+2025-03-28 10:43:18,452 - INFO - Found link: 
+2025-03-28 10:43:18,452 - INFO - Found link: /search?q=site:cnn.com/business+2024+election++after:2024-01-01+before:2024-12-31&num=100&safe=active&sca_esv=ba1bbeed3c806847&hl=en&ie=UTF-8&filter=0
+2025-03-28 10:43:19,523 - INFO - Found link: 
+2025-03-28 10:43:19,524 - INFO - Found link: /search?q=site:cnn.com/business+2024+election++after:2024-01-01+before:2024-12-31&num=100&safe=active&sca_esv=ba1bbeed3c806847&hl=en&ie=UTF-8&filter=0
+2025-03-28 10:43:20,193 - INFO - Found link: 
+2025-03-28 10:43:20,193 - INFO - Found link: /search?q=site:cnn.com/business+2024+election++after:2024-01-01+before:2024-12-31&num=100&safe=active&sca_esv=ba1bbeed3c806847&hl=en&ie=UTF-8&filter=0
+2025-03-28 10:43:20,839 - INFO - Found link: 
+2025-03-28 10:43:20,839 - INFO - Found link: /search?q=site:cnn.com/business+2024+election++after:2024-01-01+before:2024-12-31&num=100&safe=active&sca_esv=ba1bbeed3c806847&hl=en&ie=UTF-8&filter=0
+2025-03-28 10:43:21,523 - INFO - Found link: 
+2025-03-28 10:43:21,523 - INFO - Found link: /search?q=site:cnn.com/business+2024+election++after:2024-01-01+before:2024-12-31&num=100&safe=active&sca_esv=ba1bbeed3c806847&hl=en&ie=UTF-8&filter=0
+2025-03-28 10:43:22,232 - INFO - Found link: 
+2025-03-28 10:43:22,232 - INFO - Found link: /search?q=site:cnn.com/business+2024+election++after:2024-01-01+before:2024-12-31&num=100&safe=active&sca_esv=ba1bbeed3c806847&hl=en&ie=UTF-8&filter=0
+2025-03-28 10:43:22,873 - INFO - Found link: 
+2025-03-28 10:43:22,873 - INFO - Found link: /search?q=site:cnn.com/business+2024+election++after:2024-01-01+before:2024-12-31&num=100&safe=active&sca_esv=ba1bbeed3c806847&hl=en&ie=UTF-8&filter=0
+2025-03-28 10:43:23,580 - INFO - Found link: https://www.cnn.com/business/tech/lila-ibrahim-google-deepmind-interview-spc/index.html
+2025-03-28 10:43:23,580 - INFO - Found link: https://www.cnn.com/business/live-news/apple-event-iphone-16-09-09-24/index.html
+2025-03-28 10:43:23,580 - INFO - Found link: https://www.cnn.com/business/live-news/markets-fed-chair-powell-testimony-03-06-24/index.html
+2025-03-28 10:43:23,581 - INFO - Found link: https://www.cnn.com/business/live-news/alaska-airlines-boeing-01-06-24/index.html
+2025-03-28 10:43:23,581 - INFO - Found link: https://www.cnn.com/business/digital-humans-ai-dj-dex-spc/index.html
+2025-03-28 10:43:23,581 - INFO - Found link: https://www.cnn.com/business/live-news/jobs-report-june-07-05-24/index.html
+2025-03-28 10:43:23,581 - INFO - Found link: https://www.cnn.com/business/video/indra-nooyi-ceo-career-advice-spc
+2025-03-28 10:43:23,581 - INFO - Found link: https://www.cnn.com/business/indra-nooyi-pepsi-interview-spc/index.html
+2025-03-28 10:43:23,581 - INFO - Found link: https://www.cnn.com/business/live-news/columbia-usc-university-protests-04-25-24/index.html
+2025-03-28 10:43:23,581 - INFO - Found link: https://www.cnn.com/business/live-news/markets-jobs-report-december-010523/index.html
+2025-03-28 10:43:23,581 - INFO - Found link: https://www.cnn.com/business/video/clearview-ai-facial-recognition-technology-2020-digvid
+2025-03-28 10:43:23,581 - INFO - Found link: https://www.cnn.com/business/live-news/university-protests-palestine-04-30-24/index.html
+2025-03-28 10:43:23,582 - INFO - Found link: https://www.cnn.com/business/live-news/jobs-report-february-03-08-24/index.html
+2025-03-28 10:43:23,582 - INFO - Found link: /search?q=site:cnn.com/business+2024+election++after:2024-01-01+before:2024-12-31&num=100&safe=active&sca_esv=ba1bbeed3c806847&hl=en&ie=UTF-8&filter=0
+2025-03-28 10:43:24,185 - INFO - Found link: 
+2025-03-28 10:43:24,186 - INFO - Found link: /search?q=site:cnn.com/business+2024+election++after:2024-01-01+before:2024-12-31&num=100&safe=active&sca_esv=ba1bbeed3c806847&hl=en&ie=UTF-8&filter=0
+2025-03-28 10:43:24,827 - INFO - Found link: 
+2025-03-28 10:43:24,827 - INFO - Found link: /search?q=site:cnn.com/business+2024+election++after:2024-01-01+before:2024-12-31&num=100&safe=active&sca_esv=ba1bbeed3c806847&hl=en&ie=UTF-8&filter=0
+2025-03-28 10:43:25,640 - INFO - Found link: 
+2025-03-28 10:43:25,640 - INFO - Found link: /search?q=site:cnn.com/business+2024+election++after:2024-01-01+before:2024-12-31&num=100&safe=active&sca_esv=ba1bbeed3c806847&hl=en&ie=UTF-8&filter=0
+2025-03-28 10:43:26,084 - INFO - Found link: 
+2025-03-28 10:43:26,084 - INFO - Found link: /search?q=site:cnn.com/business+2024+election++after:2024-01-01+before:2024-12-31&num=100&safe=active&sca_esv=ba1bbeed3c806847&hl=en&ie=UTF-8&filter=0
+2025-03-28 10:43:27,066 - INFO - Found link: 
+2025-03-28 10:43:27,066 - INFO - Found link: /search?q=site:cnn.com/business+2024+election++after:2024-01-01+before:2024-12-31&num=100&safe=active&sca_esv=ba1bbeed3c806847&hl=en&ie=UTF-8&filter=0
+2025-03-28 10:43:27,928 - INFO - Found link: 
+2025-03-28 10:43:27,928 - INFO - Found link: /search?q=site:cnn.com/business+2024+election++after:2024-01-01+before:2024-12-31&num=100&safe=active&sca_esv=ba1bbeed3c806847&hl=en&ie=UTF-8&filter=0
+2025-03-28 10:43:28,648 - INFO - Found link: 
+2025-03-28 10:43:28,648 - INFO - Found link: /search?q=site:cnn.com/business+2024+election++after:2024-01-01+before:2024-12-31&num=100&safe=active&sca_esv=ba1bbeed3c806847&hl=en&ie=UTF-8&filter=0
+2025-03-28 10:43:29,100 - INFO - Found link: 
+2025-03-28 10:43:29,101 - INFO - Found link: /search?q=site:cnn.com/business+2024+election++after:2024-01-01+before:2024-12-31&num=100&safe=active&sca_esv=ba1bbeed3c806847&hl=en&ie=UTF-8&filter=0
+2025-03-28 10:43:29,728 - INFO - Found link: 
+2025-03-28 10:43:29,728 - INFO - Found link: /search?q=site:cnn.com/business+2024+election++after:2024-01-01+before:2024-12-31&num=100&safe=active&sca_esv=ba1bbeed3c806847&hl=en&ie=UTF-8&filter=0
+2025-03-28 10:43:30,228 - INFO - Found link: 
+2025-03-28 10:43:30,228 - INFO - Found link: /search?q=site:cnn.com/business+2024+election++after:2024-01-01+before:2024-12-31&num=100&safe=active&sca_esv=ba1bbeed3c806847&hl=en&ie=UTF-8&filter=0
+2025-03-28 10:43:30,811 - INFO - Found link: 
+2025-03-28 10:43:30,811 - INFO - Found link: /search?q=site:cnn.com/business+2024+election++after:2024-01-01+before:2024-12-31&num=100&safe=active&sca_esv=ba1bbeed3c806847&hl=en&ie=UTF-8&filter=0
+2025-03-28 10:43:31,434 - INFO - Found link: 
+2025-03-28 10:43:31,434 - INFO - Found link: /search?q=site:cnn.com/business+2024+election++after:2024-01-01+before:2024-12-31&num=100&safe=active&sca_esv=ba1bbeed3c806847&hl=en&ie=UTF-8&filter=0
+2025-03-28 10:43:32,161 - INFO - Found link: https://www.cnn.com/business/live-news/college-campus-antisemitism-hearing-05-23-24/index.html
+2025-03-28 10:43:32,162 - INFO - Found link: https://www.cnn.com/business/live-news/global-stock-markets-plunge/index.html
+2025-03-28 10:43:32,162 - INFO - Found link: https://www.cnn.com/business/tech/lila-ibrahim-google-deepmind-interview-spc/index.html
+2025-03-28 10:43:32,162 - INFO - Found link: https://www.cnn.com/business/live-news/apple-event-iphone-16-09-09-24/index.html
+2025-03-28 10:43:32,162 - INFO - Found link: https://www.cnn.com/business/live-news/markets-fed-chair-powell-testimony-03-06-24/index.html
+2025-03-28 10:43:32,162 - INFO - Found link: https://www.cnn.com/business/live-news/alaska-airlines-boeing-01-06-24/index.html
+2025-03-28 10:43:32,162 - INFO - Found link: https://www.cnn.com/business/digital-humans-ai-dj-dex-spc/index.html
+2025-03-28 10:43:32,162 - INFO - Found link: https://www.cnn.com/business/live-news/jobs-report-june-07-05-24/index.html
+2025-03-28 10:43:32,162 - INFO - Found link: https://www.cnn.com/business/video/indra-nooyi-ceo-career-advice-spc
+2025-03-28 10:43:32,163 - INFO - Found link: https://www.cnn.com/business/indra-nooyi-pepsi-interview-spc/index.html
+2025-03-28 10:43:32,163 - INFO - Found link: /search?q=site:cnn.com/business+2024+election++after:2024-01-01+before:2024-12-31&num=100&safe=active&sca_esv=ba1bbeed3c806847&hl=en&ie=UTF-8&filter=0
+2025-03-28 10:43:32,586 - INFO - Found link: 
+2025-03-28 10:43:32,586 - INFO - Found link: /search?q=site:cnn.com/business+2024+election++after:2024-01-01+before:2024-12-31&num=100&safe=active&sca_esv=ba1bbeed3c806847&hl=en&ie=UTF-8&filter=0
+2025-03-28 10:43:33,294 - INFO - Found link: 
+2025-03-28 10:43:33,294 - INFO - Found link: /search?q=site:cnn.com/business+2024+election++after:2024-01-01+before:2024-12-31&num=100&safe=active&sca_esv=ba1bbeed3c806847&hl=en&ie=UTF-8&filter=0
+2025-03-28 10:43:33,943 - INFO - Found link: 
+2025-03-28 10:43:33,944 - INFO - Found link: /search?q=site:cnn.com/business+2024+election++after:2024-01-01+before:2024-12-31&num=100&safe=active&sca_esv=ba1bbeed3c806847&hl=en&ie=UTF-8&filter=0
+2025-03-28 10:43:34,631 - INFO - Found link: 
+2025-03-28 10:43:34,632 - INFO - Found link: /search?q=site:cnn.com/business+2024+election++after:2024-01-01+before:2024-12-31&num=100&safe=active&sca_esv=ba1bbeed3c806847&hl=en&ie=UTF-8&filter=0
+2025-03-28 10:43:35,343 - INFO - Found link: 
+2025-03-28 10:43:35,343 - INFO - Found link: /search?q=site:cnn.com/business+2024+election++after:2024-01-01+before:2024-12-31&num=100&safe=active&sca_esv=ba1bbeed3c806847&hl=en&ie=UTF-8&filter=0
+2025-03-28 10:43:35,859 - INFO - Found link: 
+2025-03-28 10:43:35,860 - INFO - Found link: /search?q=site:cnn.com/business+2024+election++after:2024-01-01+before:2024-12-31&num=100&safe=active&sca_esv=ba1bbeed3c806847&hl=en&ie=UTF-8&filter=0
+2025-03-28 10:43:36,310 - INFO - Found link: 
+2025-03-28 10:43:36,310 - INFO - Found link: /search?q=site:cnn.com/business+2024+election++after:2024-01-01+before:2024-12-31&num=100&safe=active&sca_esv=ba1bbeed3c806847&hl=en&ie=UTF-8&filter=0
+2025-03-28 10:43:37,198 - INFO - Found link: https://www.cnn.com/business/live-news/columbia-usc-university-protests-04-25-24/index.html
+2025-03-28 10:43:37,198 - INFO - Found link: https://www.cnn.com/business/live-news/markets-jobs-report-december-010523/index.html
+2025-03-28 10:43:37,198 - INFO - Found link: https://www.cnn.com/business/video/clearview-ai-facial-recognition-technology-2020-digvid
+2025-03-28 10:43:37,198 - INFO - Found link: https://www.cnn.com/business/live-news/university-protests-palestine-04-30-24/index.html
+2025-03-28 10:43:37,198 - INFO - Found link: https://www.cnn.com/business/live-news/jobs-report-february-03-08-24/index.html
+2025-03-28 10:43:37,199 - INFO - Found link: https://www.cnn.com/business/live-news/apple-wwdc-keynote-06-10-24/index.html
+2025-03-28 10:43:37,199 - INFO - Found link: https://www.cnn.com/business/live-news/att-outage-02-22-24/index.html
+2025-03-28 10:43:37,199 - INFO - Found link: https://www.cnn.com/business/live-news/doj-apple-antitrust-lawsuit-03-21-24/index.html
+2025-03-28 10:43:37,199 - INFO - Found link: https://www.cnn.com/business/live-news/university-protests-pro-palestinian-israel-05-06-24/index.html
+2025-03-28 10:43:37,199 - INFO - Found link: https://www.cnn.com/business/live-news/sam-bankman-fried-sentencing-03-28-24/index.html
+2025-03-28 10:43:37,199 - INFO - Found link: /search?q=site:cnn.com/business+2024+election++after:2024-01-01+before:2024-12-31&num=100&safe=active&sca_esv=ba1bbeed3c806847&hl=en&ie=UTF-8&filter=0
+2025-03-28 10:43:37,826 - INFO - Found link: 
+2025-03-28 10:43:37,827 - INFO - Found link: /search?q=site:cnn.com/business+2024+election++after:2024-01-01+before:2024-12-31&num=100&safe=active&sca_esv=ba1bbeed3c806847&hl=en&ie=UTF-8&filter=0
+2025-03-28 10:43:38,215 - INFO - Found link: 
+2025-03-28 10:43:38,215 - INFO - Found link: /search?q=site:cnn.com/business+2024+election++after:2024-01-01+before:2024-12-31&num=100&safe=active&sca_esv=ba1bbeed3c806847&hl=en&ie=UTF-8&filter=0
+2025-03-28 10:43:38,821 - INFO - Found link: 
+2025-03-28 10:43:38,821 - INFO - Found link: /search?q=site:cnn.com/business+2024+election++after:2024-01-01+before:2024-12-31&num=100&safe=active&sca_esv=ba1bbeed3c806847&hl=en&ie=UTF-8&filter=0
+2025-03-28 10:43:39,745 - INFO - Found link: 
+2025-03-28 10:43:39,746 - INFO - Found link:
+/search?q=site:cnn.com/business+2024+election++after:2024-01-01+before:2024-12-31&num=100&safe=active&sca_esv=ba1bbeed3c806847&hl=en&ie=UTF-8&filter=0

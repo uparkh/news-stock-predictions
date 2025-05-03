@@ -10,10 +10,12 @@ from nltk.stem import WordNetLemmatizer
 from datetime import datetime, timedelta
 from argparse import ArgumentParser
 from nltk.sentiment import SentimentIntensityAnalyzer
+from matplotlib.patches import Patch
 
 # arguments
 parser = ArgumentParser(description="Process a CSV input file.")
 parser.add_argument('-i', '--input', type=str, required=True, help='Path to the input CSV file.')
+parser.add_argument('-l', '--label', type=str, required=True, help='Label for dataset, used in the graph title.')
 args = parser.parse_args()
 
 input_file: str = args.input
@@ -116,7 +118,6 @@ sdf_2024 = sdf_2024.sort_values(by=['Date'])
 sdf_2024 = sdf_2024.reset_index(drop=True)
 
 sdf_2024 = sdf_2024[['Date', 'Close/Last']]
-sdf_2024
 
 start_price = sdf_2024.iloc[0]['Close/Last']
 end_price = sdf_2024.iloc[-1]['Close/Last']
@@ -133,27 +134,36 @@ months = nltk_month_avgs_standardized.index.to_list()
 nltk_month_avgs_standardized.index = nltk_month_avgs_standardized.index.map(month_to_datetime)
 
 fig, ax = plt.subplots(figsize=(12, 6))
-ax.plot(sdf_2024['Date'], sdf_2024['Deviation'], linestyle='-', color='purple', label='Deviation')
+ax.plot(sdf_2024['Date'], sdf_2024['Deviation'], linestyle='-', color='purple', label='2024 S&P 500 Deviation from Trendline')
 mag = sdf_2024['Deviation'].max()
 mag += mag / 12
 
 colors = ['green' if val > 0 else 'red' for val in nltk_month_avgs_standardized]
 widths = [delta.days for delta in (nltk_month_avgs_standardized.index[1:] - nltk_month_avgs_standardized.index[:-1])] + [31]
 standard_abs_max = nltk_month_avgs_standardized.abs().max()
-ax.bar(nltk_month_avgs_standardized.index, nltk_month_avgs_standardized * (mag / standard_abs_max) * (2/3), color=colors, width=widths, align='edge', alpha=0.7, label='Sentiment Score')
+bar_scalar = (mag / standard_abs_max) * (2/3)
+ax.bar(nltk_month_avgs_standardized.index, nltk_month_avgs_standardized * bar_scalar, color=colors, width=widths, align='edge', alpha=0.7, label='Positive Standardized Sentiment Score')
 
-ax.set_title('2024 S&P 500: Adjusted Relative to Trendline')
-ax.set_xlabel('Date')
-ax.set_ylabel('Price Deviation from Trendline ($)')
+ax.set_title(f'2024 Adjusted S&P 500 w/ Sentiment Correlation of {args.label}')
+ax.set_xlabel('Month')
+
+ax_secondary = ax.twinx()
+ax_secondary.set_ylabel('Standardized Sentiment Score (Unitless)')
+ax_secondary.set_ylim(-1, 1)
+
 ax.grid(True)
+ax.set_ylabel('Price Deviation from Trendline ($)')
+ax.set_ylim(-mag, mag)
+
 ax.set_xticks(nltk_month_avgs_standardized.index)
 ax.set_xticklabels(months, rotation=15, ha='left')
 ax.tick_params(axis='x')
-
 ax.set_xlim(sdf_2024['Date'].iloc[0] - timedelta(days=1), sdf_2024['Date'].iloc[-1])
-ax.set_ylim(-mag, mag)
-fig.tight_layout()
 
-fig.savefig('2024_sp500_deviation.png')
+ax.legend(loc='best')
+red_patch = Patch(color='red', label='Negative Standardized Sentiment Score')
+ax.legend(handles=ax.get_legend_handles_labels()[0] + [red_patch], loc='best')
 
-logging.info("Graph saved as 2024_sp500_deviation.png. Exiting.")
+img_filename = args.input.split('/')[-1].split('.')[0] + '_graph.png'
+fig.savefig(img_filename)
+logging.info(f"Graph saved as {img_filename}. Exiting.")

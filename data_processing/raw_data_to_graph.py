@@ -26,6 +26,16 @@ logging.basicConfig(
     format='%(asctime)s - %(message)s',
 )
 
+
+# Columns: ['month', 'text0', 'text1', ...] any number of text columns
+df = pd.read_csv(input_file).fillna('').astype(str)
+months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec']
+months_found = df['month'].unique().tolist()
+if months_found != months:
+    raise ValueError(f"Expected months in the first column to be:\n\t{months}\nBut got:\n\t{months_found}")
+text_cols = df.columns[1:]  # Exclude the first column (month)
+
+
 # nltk downloads
 logging.info("Downloading NLTK data... (this may take a while if not already downloaded)")
 for package in [
@@ -36,10 +46,6 @@ for package in [
     'vader_lexicon',
 ]:
     nltk.download(package, quiet=True)
-
-# Columns: ['month', 'text0', 'text1', ...] any number of text columns
-df = pd.read_csv(input_file).fillna('').astype(str)
-text_cols = df.columns[1:]  # Exclude the first column (month)
 
 
 logging.info("Cleaning, preprocessing, and lemmatizing...")
@@ -130,7 +136,6 @@ sdf_2024['Deviation'] = sdf_2024['Close/Last'] - sdf_2024['Baseline']
 def month_to_datetime(month):
     return datetime.strptime(f"2024-{month}-01", "%Y-%b-%d")
 
-months = nltk_month_avgs_standardized.index.to_list()
 nltk_month_avgs_standardized.index = nltk_month_avgs_standardized.index.map(month_to_datetime)
 
 fig, ax = plt.subplots(figsize=(12, 6))

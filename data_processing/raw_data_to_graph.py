@@ -1,4 +1,122 @@
 import pandas as pd
+import nltk
+import re
+from nltk import pos_tag
+from nltk.tokenize import word_tokenize
+from nltk.corpus import stopwords, wordnet
+from nltk.stem import PorterStemmer, WordNetLemmatizer
+
+english_stopwords = set(stopwords.words('english'))
+nltk.download('all')
+
+df = pd.concat([
+    pd.read_csv('reddit-cryptocurrency-data.csv'),
+    pd.read_csv('reddit-wallstreetbets-data.csv'),
+    pd.read_csv('reddit-finance-data.csv'),
+    pd.read_csv('reddit-investing-data.csv'),
+], ignore_index=True)
+
+
+# Combine `post_title`, `post_selftext` into a column 'headline'
+cols_to_combine = ['post_title', 'post_selftext']
+df['headline'] = df[cols_to_combine].fillna('').agg(' '.join, axis=1)
+df = df.drop(columns=cols_to_combine)
+
+
+# ## Text Cleaning Function
+# I did research the tradeoff between stemming vs. lemmatizing, and in general I got that:
+# - Stemming = rules-based, heuristic algorithmic removal of common word endings
+#     - faster for larger datasets, loses accuracy and context, can produced nonexistent words
+# - Lemmatizing = more accurate, more computationally expensive with Part-of-Speech Tagging required
+# 
+# But I reason that I'm not training an ML model where accuracy is mission critical, so simply
+# stemming should suffice.
+
+def clean_text_stemmer(text: str) -> str:
+    """
+    Clean the input text by removing URLs, special characters, and extra whitespace, and using
+    NLTK's tokenization, stopword removal, stemming.
+    """
+    # Remove URLs
+    text = re.sub(r'http\S+|www\S+|https\S+', '', text, flags=re.MULTILINE)
+    # Remove special characters and digits, keep important punctuation
+    text = re.sub(r'[^A-Za-z\s.,!?]', '', text)
+    # Remove extra whitespace
+    text = re.sub(r'\s+', ' ', text).strip().lower()
+
+    words = word_tokenize(text)
+    # Remove stopwords
+    words = [word for word in words if word not in english_stopwords]
+    # Stemming
+    stemmer = PorterStemmer()
+    words = [stemmer.stem(word) for word in words]
+    text = ' '.join(words)
+    return text + '.'
+
+# example_text = df['text'].iloc[2226]
+# example_text
+
+example_text_stemmed = clean_text_stemmer(example_text)
+example_text_stemmed
+
+# Okay, maybe lemmatizing is the better strategy, there are just too many nonsense words here that can throw off the sentiment analyzer.
+
+def clean_text_lemmatizer(text: str) -> str:
+    """
+    Clean the input text by removing URLs, special characters, and extra whitespace, and using
+    NLTK's tokenization, stopword removal, lemmatizer.
+    """
+    # POS tagging for lemmatization
+    # Remove URLs
+    text = re.sub(r'http\S+|www\S+|https\S+', '', text, flags=re.MULTILINE)
+
+    pos_tags = pos_tag(word_tokenize(text))
+    lemmatizer = WordNetLemmatizer()
+    # Map POS tags to WordNet format
+    tag_dict = {
+        "J": wordnet.ADJ,  # Adjective
+        "N": wordnet.NOUN, # Noun
+        "V": wordnet.VERB, # Verb
+        "R": wordnet.ADV   # Adverb
+    }
+    pos_tags = [(word, tag_dict.get(tag[0], 'n')) for word, tag in pos_tags]
+
+    # Lemmatization
+    words = [lemmatizer.lemmatize(word, pos).lower() for word, pos in pos_tags]
+    # Remove stopwords
+    words = [word for word in words if word not in english_stopwords]
+    text = ' '.join(words)
+
+    # Remove special characters and digits, keep important punctuation
+    text = re.sub(r'[^A-Za-z\s.,!?]', '', text)
+    # Remove extra whitespace
+    text = re.sub(r'\s+', ' ', text).strip().lower()
+
+    return text + '.'  # For FinBERT
+
+example_text
+
+example_text_lemmatized = clean_text_lemmatizer(example_text)
+print('LEMMATIZED: ' + example_text_lemmatized)
+print('STEMMED: ' + example_text_stemmed)
+
+# ## Applying Lemmatizer to Whole Text Column
+# Okay the lemmatizer **definitely works a lot better**, it's a whole lot more accurate in its processing. Gonna stick with that! Now to apply it to the whole text column.
+
+# For some reason there are floats in the text data, have to replace those with empty string
+cols = ['headline'] + [f'tc{i}' for i in range(10)]
+df[cols] = df[cols].astype(str)
+
+for col in cols:
+    df[col] = df[col].apply(clean_text_lemmatizer)
+
+df.sample(4)
+
+# Save the cleaned DataFrame to a new CSV file
+df.to_csv('reddit-cleaned.csv', index=False)
+
+
+import pandas as pd
 
 # # Sentiment Models Comparisons -- Reddit
 # In this part (3), I'll be comparing the VADER pretrained model from NLTK's presets, and the FinBERT model from the PyTorch library.
@@ -137,6 +255,66 @@ pd.concat([nltk_month_avgs_standardized, fb_month_avgs_standardized], axis=1, ke
 # Little better, it seems that FinBERT follows similar trends to NLTK, but FinBERT's June is way too pessimistic, and FinBERT's July is way too optimistic. Based on the actual S&P500 graph, it seems that NLTK actually performed better, so I will be using NLTK for my plotting and analysis moving forward.
 
 df.to_csv('reddit-sentiment.csv', index=False)
+
+
+
+
+import pandas as pd
+import matplotlib.pyplot as plt
+import numpy as np
+from datetime import datetime
+import textwrap
+
+
+idf = pd.read_csv('./reddit-sentiment.csv')  # input df
+sdf = pd.read_csv('../arishko2-yahoo/data/HistoricalData_1743103651771.csv')  # yahoo S&P500 data
+
+# Convert 'Date' column to datetime format
+sdf['Date'] = pd.to_datetime(sdf['Date'])
+sdf_2024 = sdf[sdf['Date'].dt.year == 2024]
+sdf_2024 = sdf_2024.sort_values(by=['Date'])
+sdf_2024 = sdf_2024.reset_index(drop=True)
+
+sdf_2024 = sdf_2024[['Date', 'Close/Last']]
+sdf_2024
+
+start_price = sdf_2024.iloc[0]['Close/Last']
+end_price = sdf_2024.iloc[-1]['Close/Last']
+baseline_slope = (start_price - end_price) / len(sdf_2024)
+
+sdf_2024['Baseline'] = start_price - (baseline_slope * sdf_2024.index)
+sdf_2024['Deviation'] = sdf_2024['Close/Last'] - sdf_2024['Baseline']
+
+# convert month names to datetime objects
+def month_to_datetime(month):
+    return datetime.strptime(f"2024-{month}-01", "%Y-%b-%d")
+
+mo_idf = idf.groupby('month', sort=False)['nltk_mu'].mean()
+mo_idf_standardized = (mo_idf - mo_idf.mean()) / mo_idf.std()
+mo_idf_standardized.index = mo_idf_standardized.index.map(month_to_datetime)
+
+plt.figure(figsize=(12, 6))
+# plt.plot(sdf_2024['Date'], sdf_2024['Close/Last'], linestyle=':', color='b', label='Close/Last')
+# plt.plot(sdf_2024['Date'], sdf_2024['Baseline'], linestyle='--', color='orange', label='Baseline')
+plt.plot(sdf_2024['Date'], sdf_2024['Deviation'], linestyle='-', color='purple', label='Deviation')
+mag = sdf_2024['Deviation'].max()
+mag += mag / 12
+
+colors = ['green' if val > 0 else 'red' for val in mo_idf_standardized]
+widths = [delta.days for delta in (mo_idf_standardized.index[1:] - mo_idf_standardized.index[:-1])] + [31]
+plt.bar(mo_idf_standardized.index, mo_idf_standardized * (mag / 3), color=colors, width=widths, align='edge')
+
+plt.title('2024 S&P 500: Adjusted Relative to Trendline')
+plt.xlabel('Date')
+plt.ylabel('Price Deviation from Trendline ($)')
+plt.grid(True)
+plt.xticks(rotation=45)
+
+plt.ylim(-mag, mag)
+
+plt.xlim(sdf_2024['Date'].iloc[0], sdf_2024['Date'].iloc[-1])
+plt.tight_layout()
+plt.show()
 
 
 

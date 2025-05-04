@@ -72,6 +72,7 @@ dependencies:
   - zeromq=4.3.5=hc1bb282_7
   - zipp=3.21.0=pyhd8ed1ab_1
   - pip:
+      - google-api-python-client
       - tweepy==4.14.0
       - certifi==2025.1.31
       - charset-normalizer==3.4.1

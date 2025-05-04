@@ -16,6 +16,7 @@ from matplotlib.patches import Patch
 parser = ArgumentParser(description="Process a CSV input file.")
 parser.add_argument('-i', '--input', type=str, required=True, help='Path to the input CSV file.')
 parser.add_argument('-l', '--label', type=str, required=True, help='Label for dataset, used in the graph title.')
+parser.add_argument('-o', '--output', type=str, default=None, help='Optional custom filename for output graph (PNG).')
 args = parser.parse_args()
 
 input_file: str = args.input
@@ -169,6 +170,6 @@ ax.legend(loc='best')
 red_patch = Patch(color='red', label='Negative Standardized Sentiment Score')
 ax.legend(handles=ax.get_legend_handles_labels()[0] + [red_patch], loc='best')
 
-img_filename = args.input.split('/')[-1].split('.')[0] + '_graph.png'
+img_filename = args.output if args.output else args.input.split('/')[-1].split('.')[0] + '_graph.png'
 fig.savefig(img_filename)
 logging.info(f"Graph saved as {img_filename}. Exiting.")

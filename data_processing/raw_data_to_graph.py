@@ -16,7 +16,6 @@ from matplotlib.patches import Patch
 parser = ArgumentParser(description="Process a CSV input file.")
 parser.add_argument('-i', '--input', type=str, required=True, help='Path to the input CSV file.')
 parser.add_argument('-l', '--label', type=str, required=True, help='Label for dataset, used in the graph title.')
-parser.add_argument('-o', '--output', type=str, default=None, help='Optional custom filename for output graph (PNG).')
 args = parser.parse_args()
 
 input_file: str = args.input
@@ -148,7 +147,7 @@ colors = ['green' if val > 0 else 'red' for val in nltk_month_avgs_standardized]
 widths = [delta.days for delta in (nltk_month_avgs_standardized.index[1:] - nltk_month_avgs_standardized.index[:-1])] + [31]
 standard_abs_max = nltk_month_avgs_standardized.abs().max()
 bar_scalar = (mag / standard_abs_max) * (2/3)
-ax.bar(nltk_month_avgs_standardized.index, nltk_month_avgs_standardized * bar_scalar, color=colors, width=widths, align='edge', alpha=0.7, label='Positive Standardized Sentiment Score')
+ax.bar(nltk_month_avgs_standardized.index, nltk_month_avgs_standardized * bar_scalar, color=colors, width=widths, align='edge', alpha=0.7)
 
 ax.set_title(f'2024 Adjusted S&P 500 w/ Sentiment Correlation of {args.label}')
 ax.set_xlabel('Month')
@@ -167,9 +166,10 @@ ax.tick_params(axis='x')
 ax.set_xlim(sdf_2024['Date'].iloc[0] - timedelta(days=1), sdf_2024['Date'].iloc[-1])
 
 ax.legend(loc='best')
+green_patch = Patch(color='green', label='Positive Standardized Sentiment Score')
 red_patch = Patch(color='red', label='Negative Standardized Sentiment Score')
-ax.legend(handles=ax.get_legend_handles_labels()[0] + [red_patch], loc='best')
+ax.legend(handles=ax.get_legend_handles_labels()[0] + [green_patch, red_patch], loc='best')
 
-img_filename = args.output if args.output else args.input.split('/')[-1].split('.')[0] + '_graph.png'
+img_filename = args.input.split('/')[-1].split('.')[0] + '_graph.png'
 fig.savefig(img_filename)
 logging.info(f"Graph saved as {img_filename}. Exiting.")

@@ -168,7 +168,10 @@ ax.set_xlim(sdf_2024['Date'].iloc[0] - timedelta(days=1), sdf_2024['Date'].iloc[
 
 ax.legend(loc='best')
 red_patch = Patch(color='red', label='Negative Standardized Sentiment Score')
-ax.legend(handles=ax.get_legend_handles_labels()[0] + [red_patch], loc='best')
+green_patch = Patch(color='green', label='Positive Standardized Sentiment Score')
+cur_handles = ax.get_legend_handles_labels()[0][:1]
+
+ax.legend(handles=cur_handles + [green_patch, red_patch], loc='best')
 
 img_filename = args.output if args.output else args.input.split('/')[-1].split('.')[0] + '_graph.png'
 fig.savefig(img_filename)
